@@ -1,4 +1,4 @@
-## Build/Create A Honey Pot
+## Build/Create A Honeypot
 ## Objective
 [Brief Objective - Remove this afterwards]
 
