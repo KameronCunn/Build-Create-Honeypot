@@ -2,16 +2,12 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The primary objective of building a honeypot is to detect and analyze threats in a controlled environment. By luring attackers to the honeypot, security teams can study their tactics, techniques, and procedures without risking actual assets. This insight helps organizations enhance their defense mechanisms, update intrusion detection systems, and address vulnerabilities before they are exploited. Additionally, honeypots serve as a diversion, drawing attackers away from critical systems and providing an extra layer of security. Building a honeypot demonstrates proactive cybersecurity skills, enhances threat intelligence, and shows a commitment to improving network defenses, which employers highly value.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+-
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
